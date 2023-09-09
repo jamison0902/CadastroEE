@@ -1,7 +1,14 @@
 ## CadastroEE
 Implementação de sistema cadastral com interface Web, baseado nas tecnologias de Servlets, JPA e JEE.
 
-![alt text](app.png)
+**Tela de Listagem**
+![alt text](listagem.png)
+
+**Tela de Cadastro**
+![alt text](cadastro.png)
+
+**Tela de Alteração**
+![alt text](alteracao.png)
 
 <hr>
 
