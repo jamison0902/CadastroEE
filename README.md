@@ -30,7 +30,7 @@ Implementação de sistema cadastral com interface Web, baseado nas tecnologias 
 ### Arquivos
 
 * O arquivo **Loja.bak** contém uma cópia do banco utilizado. 
-* O arquivo **RelatorioPratica.pdf** contém informações e análise sobre os procedimentos executados.
+
 
 
 
